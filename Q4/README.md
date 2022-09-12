@@ -10,9 +10,20 @@ Download the file
 ```
    chmod +x ipgrabber.sh
 
-   ./ipgrabber.sh <file_name>
+   ./ip_frequency_counter.sh <file_name>
 
+```
 
+Sample Output
+
+```
+  ./ip_frequency_counter.sh sample_log.txt
+  
+  48 192.168.21.34
+  11 192.168.22.34
+  17 192.168.24.34
+  10 192.168.25.34
+   3 192.168.26.34
 ```
 
 
