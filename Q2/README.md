@@ -1,1 +1,7 @@
-#Q2
+# Q2
+
+## Usage
+
+```
+    kubectl create -f 
+```
