@@ -8,6 +8,6 @@ if [ $# -eq 0 ]
     exit
 fi
 
-cat $1| grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}"| sort -rh |uniq -c
+cat $1| grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}"| sort -h |uniq -c
 
 
