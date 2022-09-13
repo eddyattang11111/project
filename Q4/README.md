@@ -8,7 +8,7 @@ Download the file
 
 
 ```
-   chmod +x ipgrabber.sh
+   chmod +x ./ip_frequency_counter.sh
 
    ./ip_frequency_counter.sh <file_name>
 
