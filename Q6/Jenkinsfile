@@ -1,3 +1,0 @@
-/* groovylint-disable CompileStatic, NoDef, UnusedVariable, VariableName, VariableTypeRequired */
-@Library('koupon@main') _
-terraformPipeline()

@@ -5,6 +5,7 @@
 The instruction is to create a Dockerfile that run Bitcoin Core 22.0 in a container.
 
 ```
+docker build -t <repo-name>:<tag-id> .
 
-sample code 
+docker run -d <repo-name>:<tag-id>
 ```

@@ -1,3 +1,16 @@
+# Q6
+
+
+## Usage
+
+change directory to the download folder
+
+```
+    terraform plan
+
+    terraform apply
+```
+
 ## Requirements
 
 No requirements.

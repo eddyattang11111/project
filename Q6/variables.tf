@@ -19,8 +19,8 @@ variable "assume_role_policy" {
 }
 
 variable "create_instance_profile" {
-  type    = bool
-  default = true
+  type        = bool
+  default     = true
   description = "Boolean to create an instance profile for the role"
 }
 
